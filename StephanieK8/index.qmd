@@ -1,0 +1,42 @@
+---
+title: "Stephanie Karas"
+image: photo.jpeg 
+about:
+  template: trestles
+  image-width: 20em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:notanaddress@gmail.com
+    - text: GitHub
+      icon: github
+      href: https://github.com/
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/
+  id: ppc    
+---
+
+:::{ppc}
+## Skills:
+
+  - Molecular biology laboratory research
+  - Programming with Python, R, and Java
+  - Mental health counseling
+  
+## Education:
+
+Graduate of University of Colorado Denver
+
+Major: Psychology
+
+Minors: Data Science, Criminal Justice
+
+GPA: 4.0
+
+Summa Cum Laude
+
+Awards: EUReCA Research Grant
+:::
+
+

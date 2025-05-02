@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephanie Karas"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Hobbies.qmd
+        text: Hobbies
+
+format:
+  html:
+    theme: Vapor
+    css: styles.css
+    toc: true
+    linkcolor: "#33b2ff"
+
+

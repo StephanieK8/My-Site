@@ -1,0 +1,16 @@
+---
+title: "Hobbies"
+editor: visual
+---
+
+## Nature Photography
+![A cute squirrel](Nature.jpeg) 
+  
+  
+  
+## Reading
+
+
+
+## Gardening
+---
